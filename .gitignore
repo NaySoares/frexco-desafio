@@ -1,0 +1,32 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+frexco-back/node_modules
+frexco-back/.pnp
+frexco-back/.pnp.js
+
+frexco-back/.vscode
+frexco-back/.DS_Store
+frexco-back/.env.local
+frexco-back/.env.development.local
+frexco-back/.env.test.local
+frexco-back/.env.production.local
+
+frexco-back/npm-debug.log*
+frexco-back/yarn-debug.log*
+frexco-back/yarn-error.log*
+
+frexco-front/node_modules
+frexco-front/.pnp
+frexco-front/.pnp.js
+
+frexco-front/.vscode
+frexco-front/.DS_Store
+frexco-front/.env.local
+frexco-front/.env.development.local
+frexco-front/.env.test.local
+frexco-front/.env.production.local
+
+frexco-front/npm-debug.log*
+frexco-front/yarn-debug.log*
+frexco-front/yarn-error.log*

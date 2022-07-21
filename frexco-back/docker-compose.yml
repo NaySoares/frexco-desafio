@@ -1,0 +1,35 @@
+version: "3.7"
+
+networks:
+  default:
+    external:
+      name: super-rede
+
+services:
+  database_frexco_pg:
+    image: postgres
+    container_name: database_frexco_pg
+    restart: always
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_USER=docker
+      - POSTGRES_PASSWORD=docker
+      - POSTGRES_DB=frexco
+    volumes:
+      - pgdata:/data/frexco_pg
+  app:
+    build: .
+    container_name: frexco-back
+    ports:
+      - 3340:3340
+    volumes:
+      - .:/usr/app
+    links:
+      - database_frexco_pg
+    depends_on:
+      - database_frexco_pg
+
+volumes:
+  pgdata:
+    driver: local
