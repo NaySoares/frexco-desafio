@@ -58,10 +58,10 @@ Ao clicar em "comprar", na página de um livro, sempre é descontado uma unidade
 
 ## Imagens
 <h1 align="center">
-<img alt="frexcoshop-image" src="https://github.com/NaySoares/frexco-desafio/blob/main/github/frexco-01.png?raw=true" width = "600px" />
-<img alt="frexcoshop-image" src="https://github.com/NaySoares/frexco-desafio/blob/main/github/frexco-02.png?raw=true" width = "600px" />
-<img alt="frexcoshop-image" src="https://github.com/NaySoares/frexco-desafio/blob/main/github/frexco-03.png?raw=true" width = "600px" />
-<img alt="frexcoshop-image" src="https://github.com/NaySoares/frexco-desafio/blob/main/github/frexco-04.png?raw=true" width = "600px" />
-<img alt="frexcoshop-image" src="https://github.com/NaySoares/frexco-desafio/blob/main/github/frexco-05.png?raw=true" width = "600px" />
-<img alt="frexcoshop-image" src="https://github.com/NaySoares/frexco-desafio/blob/main/github/frexco-06.png?raw=true" width = "600px" />
+<img alt="frexcoshop-image" src="https://github.com/NaySoares/frexco-desafio/blob/main/.github/frexco-01.png?raw=true" width = "600px" />
+<img alt="frexcoshop-image" src="https://github.com/NaySoares/frexco-desafio/blob/main/.github/frexco-02.png?raw=true" width = "600px" />
+<img alt="frexcoshop-image" src="https://github.com/NaySoares/frexco-desafio/blob/main/.github/frexco-03.png?raw=true" width = "600px" />
+<img alt="frexcoshop-image" src="https://github.com/NaySoares/frexco-desafio/blob/main/.github/frexco-04.png?raw=true" width = "600px" />
+<img alt="frexcoshop-image" src="https://github.com/NaySoares/frexco-desafio/blob/main/.github/frexco-05.png?raw=true" width = "600px" />
+<img alt="frexcoshop-image" src="https://github.com/NaySoares/frexco-desafio/blob/main/.github/frexco-06.png?raw=true" width = "600px" />
 </h1>
